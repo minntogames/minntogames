@@ -16,19 +16,13 @@
 
 <table>
 <tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
-</td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+### 👋 **Hi, I'm Minntogames!**
+🚀 I mainly work on bot development.
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+💼 **Focus:** Providing interesting apps 
 
 </td>
 </tr>
@@ -52,26 +46,23 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
-
 ### 🔧  **Development Tools**
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+### **Main activities**
+<img src="https://skillicons.dev/icons?i=discord,bots,discordjs" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
 ### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+ibisPaint X
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,html,css" />
 
 </td>
 </tr>
@@ -96,7 +87,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-  **⭐ From [user](https://github.com/user) with ❤️**
+  **⭐ From [user](https://github.com/minntogames) with ❤️**
   
   *"Flutter makes everything beautiful! 🦋"*
 </div>
