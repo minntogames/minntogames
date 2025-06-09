@@ -15,10 +15,9 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm Minntogames!**
-🚀 I mainly work on bot development.
-
+🚀 主にDiscotd開発に取り組んでいます。
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Providing interesting apps 
+💼 **重視しているもの:** 面白いサービスを提供
 
 </td>
 </tr>
@@ -29,11 +28,11 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minntogames&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minntogames&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 ## 🛠️ **Tech Stack**
@@ -42,23 +41,26 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🔧  **Development Tools**
+### 🔧  **開発ツール**
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
-### **Main activities**
+### **本活動**
 <img src="https://skillicons.dev/icons?i=discord,bots,discordjs" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
+### 🗄️  **データベース**
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
-### 🎨  **Design**
+### 🎨  **デザイン**
 ibisPaint X
 
-### 💻  **Languages & Frameworks**
+### 💻  **言語、フレームワーク**
 <img src="https://skillicons.dev/icons?i=nodejs,js,html,css" />
+
+#### (↓若干)
+<img src="https://skillicons.dev/icons?i=ts,lua,py" />
 
 </td>
 </tr>
@@ -67,7 +69,7 @@ ibisPaint X
 ## 🏆 **GitHub Trophies (Commits)**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=minntogames&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
 </div>
 
 ## 💭 **Random Dev Quote**
@@ -84,6 +86,4 @@ ibisPaint X
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
   **⭐ From [minntogames](https://github.com/minntogames) with ❤️**
-  
-  *"Flutter makes everything beautiful! 🦋"*
 </div>
