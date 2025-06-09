@@ -15,7 +15,7 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm Minntogames!**
-🚀 主にDiscotd開発に取り組んでいます。
+🚀 **活動:** 主にDiscotd開発に取り組んでいます。
 🌍 **Location:** Japan 🇯🇵  
 💼 **重視しているもの:** 面白いサービスを提供
 
